@@ -52,5 +52,5 @@ predictor variable(s).
 
 ![location](https://user-images.githubusercontent.com/54286695/188333276-ad08e172-b7d3-4524-ae1b-ec0e1a997f4d.JPG)
 
-![output](https://user-images.githubusercontent.com/54286695/188333286-4f43eee9-2a69-44ed-ae15-d100b49442b6.JPG)
+![output](https://github.com/user-attachments/assets/a948d736-5309-4e9e-ad86-b472c37cfd1e)
 
